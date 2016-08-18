@@ -17,4 +17,7 @@ Vagrant.configure("2") do |config|
         sudo service apache2 restart
     SHELL
 
+
+    # this is some text to checkout how git works in visual studio
+
 end
